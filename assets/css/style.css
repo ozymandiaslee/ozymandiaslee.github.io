@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/black_thread.png");
+    
+}
+
+main {
+    width: 960px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+  }
+
